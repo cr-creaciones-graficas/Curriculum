@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.9989mm" height="4.5758mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 23.45 26.84"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#33AEAB;stroke-width:2.93;stroke-miterlimit:22.9256}
+    .str2 {stroke:#FEFEFE;stroke-width:1.17;stroke-miterlimit:22.9256}
+    .str1 {stroke:#FEFEFE;stroke-width:0.45;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#33AEAB}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1840284554080">
+   <polygon class="fil0 str0" points="11.73,1.69 16.86,4.62 21.99,7.55 21.99,13.42 21.99,19.28 16.86,22.21 11.73,25.15 6.6,22.21 1.47,19.28 1.47,13.42 1.47,7.55 6.6,4.62 "/>
+   <g>
+    <rect class="fil1 str1" x="5.76" y="9.98" width="11.92" height="8.08" rx="1.06" ry="1.12"/>
+    <rect class="fil1" x="8.81" y="8.77" width="5.83" height="3.16" rx="0.52" ry="0.44"/>
+    <circle class="fil2 str2" cx="11.73" cy="14.06" r="2.33"/>
+   </g>
+  </g>
+ </g>
+</svg>

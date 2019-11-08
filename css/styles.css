@@ -1,0 +1,120 @@
+body, header, h1, nav, main, footer{
+	box-sizing: 		border-box;
+	margin: 			0;
+	border: 			0;
+	padding: 			0;
+	font-family: 		century gothic, sans-serif;
+	width: 				95%;
+	margin: 			auto;
+}
+
+body{
+	background: 		linear-gradient(
+						hsla(180deg, 50%, 99%,.5),
+						hsla(240deg, 50%, 100%,.5)),
+						url(../img/background.png) center no-repeat;
+	background-size: 	cover, auto 80%;
+	opacity: 			background .3;
+
+	background-attachment: 	fixed;
+	background-blend-mode: 	soft-light; 
+}
+
+section h1, article h1{
+	text-transform: uppercase;
+	font-size: 2rem;
+}
+
+main{
+	background-color: rgba(250,250,250,.8);
+	font-weight: bold;
+}
+
+section img:first-child{
+	text-align: 		center;
+	margin: 			auto;
+	width: 100%;
+	float: left;
+}
+
+header, footer{
+	display: 			flex;
+	border-bottom: 		3.25px solid #47B4B3;
+}
+
+#header, #footer{
+	align-items: 		center;
+	color: 				white;
+	background-color: 	#47B4B3;
+}
+
+img:first-child{
+	width: 				200px;
+}
+
+img:last-child, footer img:first-child{
+	width: 				100px;
+}
+
+main, .columna{
+	display:  			flex;
+	flex-direction: 	column;
+	align-items: 		top;
+	flex-wrap: 			nowrap;
+}
+
+.principal{
+	width: 				50%;
+	margin: 			2%;
+}
+
+.fila{
+	display: 			flex;
+	flex-direction: 	row;
+	align-items: 		top;
+	flex-wrap: 			nowrap;
+}
+
+.ancho{
+	width: 				70%;
+}
+
+header {
+	align-items: 		top;
+}
+
+header img:last-child{
+	height: 			75px;
+	box-sizing: 		border-box;
+	padding: 			5px;
+}
+
+p{
+	padding: 			0 2%;
+	text-align: 		justify;
+	font-weight: 		lighter;
+}
+
+address img, a img{
+	height: 			25px;
+}
+
+
+ul > li {
+	color: 				#47B4B3;
+}
+
+li{
+	list-style: 		none;
+}
+
+meter{
+	color: 				#47B4B3;
+	border: 			1px dotted #47B4B3;
+}
+
+.biografia{
+	width: 				160px
+	height: 			160px;
+	background-position: 0,0;
+}

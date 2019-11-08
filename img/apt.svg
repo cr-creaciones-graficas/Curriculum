@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="9.74mm" height="9mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 63.21 58.4"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#33AEAB;stroke-width:3.24;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1840246084864">
+   <path class="fil0 str0" d="M16.59 15.87l8.12 7.21m12.79 11.36l9.12 8.1"/>
+   <path class="fil0 str0" d="M16.59 42.54l8.89 -7.9m12.76 -11.33l8.38 -7.44"/>
+   <g>
+    <ellipse class="fil0 str0" cx="10.19" cy="10.18" rx="8.57" ry="8.56"/>
+    <ellipse class="fil0 str0" cx="10.19" cy="48.22" rx="8.57" ry="8.56"/>
+    <ellipse class="fil0 str0" cx="53.02" cy="10.18" rx="8.57" ry="8.56"/>
+    <ellipse class="fil0 str0" cx="53.02" cy="48.22" rx="8.57" ry="8.56"/>
+   </g>
+   <ellipse class="fil0 str0" cx="31.39" cy="28.44" rx="8.57" ry="8.56"/>
+  </g>
+ </g>
+</svg>
